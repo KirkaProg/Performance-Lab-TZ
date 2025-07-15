@@ -1,4 +1,6 @@
 import sys
+# Запуски скрипта по команде ниже в консоль
+# python task2.py circle.txt dot.txt
 
 def main():
     # Получаем пути из аргументов командной строки
