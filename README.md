@@ -9,5 +9,5 @@ task3.py - python task3.py values.json tests.json reports.json
 task4.py - python task4.py numbers.txt
 
 ### Для обратной связи по ТЗ
-*TG: Keril21*
-/n*Mail: kirill95271@mail.ru*
+*TG: Keril21*  
+*Mail: kirill95271@mail.ru*
